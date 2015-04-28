@@ -5,7 +5,7 @@
 <?php print $styles; ?>
 <?php print $scripts; ?>
 <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-<script src="/sites/all/themes/phoenix-responsive-theme/js/accordion.js"></script>
+<script src="/website/sites/all/themes/phoenix-responsive-theme/js/accordion.js"></script>
 </head>
 <body class="<?php print $classes; ?>"<?php print $attributes; ?>>
   <?php print $page_top; ?>
