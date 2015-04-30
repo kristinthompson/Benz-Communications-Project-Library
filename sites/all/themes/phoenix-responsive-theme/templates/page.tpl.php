@@ -69,7 +69,7 @@
 
   <div class="user-menu-wrapper">
     <div class="full-wrap">
-     <!-- <?php print render($page['user_menu']) ?> -->
+     <?php print render($page['user_menu']) ?>
     </div>
   </div>
 
