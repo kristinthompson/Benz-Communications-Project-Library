@@ -69,10 +69,7 @@
 
   <div class="user-menu-wrapper">
     <div class="full-wrap">
-     <a href="<?php 
-     $path = $_SERVER['DOCUMENT_ROOT'];
-     $path .= "/user";
-     include_once($path); ?>">Edit profile</a> | <a href="/website/user/logout">Logout</a>
+     <a href="/user">Edit profile</a> | <a href="/user/logout">Logout</a>
     </div>
   </div>
 
