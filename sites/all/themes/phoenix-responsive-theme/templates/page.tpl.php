@@ -70,7 +70,6 @@
   <div class="user-menu-wrapper">
     <div class="full-wrap">
      <?php 
-     $user_menu_tree = user_tree(variable_get('menu_main_links_source', 'user-menu'));
      print drupal_render($user_menu_tree); ?>
     </div>
   </div>
