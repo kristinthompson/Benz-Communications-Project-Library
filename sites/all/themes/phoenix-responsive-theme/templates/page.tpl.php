@@ -69,8 +69,7 @@
 
   <div class="user-menu-wrapper">
     <div class="full-wrap">
-     <?php 
-     print drupal_render($user_menu); ?>
+     <a href="/user/logout">Logout</a>
     </div>
   </div>
 
