@@ -70,7 +70,7 @@
   <div class="user-menu-wrapper">
     <div class="full-wrap">
      <?php 
-     print drupal_render($user_menu_tree); ?>
+     print drupal_render($user_menu); ?>
     </div>
   </div>
 
